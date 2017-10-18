@@ -29,4 +29,6 @@ If you have downloaded the map from any other place, it is a fake and not suppor
 
 10. Please have a good read in this github to see if someone else has already asked the same question./ This will prevent multiple same posts and you can get your answer quicker.
 
+11. There will be no support via the Broad Acres Facebook. We all have personal lives and no PM's or face book posts for support will be answered. They will be deleted and that person may be blocked.
+
 11. Have fun and play hard.
