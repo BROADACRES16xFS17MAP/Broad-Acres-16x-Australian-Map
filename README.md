@@ -8,13 +8,13 @@ This post is extremely important to give you a guide to troubleshoot and try thi
 
 Before I start this map has been tested like no other thanks to the tireless efforts of Victor from Spectrum69 Modding as well as Jonny and Ross who have been with me since the first posting the map on facebook. The map has had numerous fixes and changes and we are happy that we have ironed out 99.99% of them. Therefore below information is considerably important.
 
-## 1. Please read the manual first.
+ 1. Please read the manual first.
 
 ## 2. Please post your log.txt with every error you are facing. No log.txt no help and issue will be deleted. The log tells us all the problems and what you are running at the time. You can find your log.txt in the Farming Simulator2017 folder (were you also import your mods into).
 
 ## 3. Most errors that will now be raised are due to edited mods that aren't constructed well. We ask that you remove all your mods and then retry same issue to see if it generates the same issue.
 
-## 4. DO Not run other maps in conjunction with this map. In FS17 other maps will conflict and will cause things to belong in the map that shouldn't. Run your mods and this map alone.
+## 4. DO NOT run other maps in conjunction with this map. In FS17 other maps will conflict and will cause things to belong in the map that shouldn't. Run your mods and this map alone.
 
 ## 5. This map will require a good PC to run due to its size. It has been tested for lag on smaller PC's and ran ok. If you are experiencing lag its you PC and not the map. This has been tested in great lengths. If you unsure please post your PC specs at the same time.
 
